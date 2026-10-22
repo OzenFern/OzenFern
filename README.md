@@ -1,5 +1,7 @@
 <div align="center">
 
+  <img src="./github_banner.png" alt="Ozen Fernandes Profile Banner" width="100%" />
+
 # Ozen Fernandes
 
 **Computer Science & Engineering Student**
