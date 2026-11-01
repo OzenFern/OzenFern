@@ -100,9 +100,9 @@ Where my projects run today, and what I'm exploring next.
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OzenFern&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/OzenFern)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OzenFern&show_icons=true&theme=catppuccin_mocha&hide_border=true)](https://github.com/OzenFern)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OzenFern&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/OzenFern)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=OzenFern&layout=compact&theme=catppuccin_mocha&hide_border=true)](https://github.com/OzenFern)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=OzenFern&theme=catppuccin-mocha&hide_border=true)](https://github.com/OzenFern)
 
