@@ -47,15 +47,15 @@ My long-term goal is to grow toward **AI/ML research**, supported by a strong fo
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Web**
 
-[![Web Development](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,htmx,axios&theme=dark)](https://skillicons.dev)
+[![Web Development](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,jquery,htmx,axios&theme=dark)](https://skillicons.dev)
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,linux,powershell,vscode,webstorm,pycharm,idea,neovim,vite,vitest,maven,postman&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,linux,powershell,vscode,webstorm,pycharm,idea,neovim,vite,vitest,pnpm,maven,postman,latex&theme=dark)](https://skillicons.dev)
 
 Also: EJS, REST APIs, NumPy.
 
@@ -64,6 +64,7 @@ Also: EJS, REST APIs, NumPy.
 | Area | Topics |
 | :--- | :--- |
 | **Backend & Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| **Web Frameworks** | ![TanStack Start](https://img.shields.io/badge/TanStack%20Start-00BFA5?style=for-the-badge&logo=tanstack&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | **AI & Data** | ![Data Science](https://img.shields.io/badge/Data_Science-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-7C3AED?style=for-the-badge) |
 | **Game Development** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) |
@@ -91,7 +92,7 @@ Where my projects run today, and what I'm exploring next.
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| **[CronVert](https://github.com/OzenFern/CronVert)** | Developer utility that translates CRON expressions into human-readable descriptions, with an emphasis on parsing, validation, and test-driven development. | JavaScript, React, Vitest |
+| **[CronVert](https://github.com/OzenFern/CronVert)** | Developer utility that translates CRON expressions into human-readable descriptions, with an emphasis on parsing, validation, and test-driven development. | TypeScript, React, Vite+ |
 | **[Booklyte](https://github.com/OzenFern/Booklyte)** | Lightweight book-tracking app for discovering books and managing a personal library, built around server-rendered pages and a database-backed backend. | Node.js, Express, PostgreSQL, EJS, HTMX, Open Library API |
 | **[ExPress](https://github.com/OzenFern/ExPress)** | CRUD-based web application built to practise backend fundamentals and deliver a polished user experience. Deployed live: backend on Render, PostgreSQL on Neon. | Node.js, Express, EJS, PostgreSQL, Render, Neon |
 | **[Transit IQ](https://github.com/Rivonnn/TransitIQ)** | Collaborative, transit-focused project developed with a team. | Java, JavaFX, Maven |
